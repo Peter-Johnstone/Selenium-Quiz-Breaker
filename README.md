@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **Selenium-Quiz-Breaker** is a Python-based automation tool developed for the Bucknell CSCI308 course that allows the user to automate quiz password attempts on Moodle. 
+The **Selenium-Quiz-Breaker** is a Python-based automation tool developed for the [Bucknell CSCI308 course](https://coursecatalog.bucknell.edu/search/?P=CSCI%20308) that allows the user to automate quiz password attempts on Moodle. 
 
 Leveraging Selenium WebDriver, the script navigates through various states of the Moodle quiz interface, handling scenarios such as initial attempts, re-attempts, and continuing previous attempts. Additionally, it records each password attempted, aiding in tracking and analysis.
 
